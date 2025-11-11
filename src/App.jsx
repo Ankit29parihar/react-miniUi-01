@@ -5,7 +5,7 @@ function App() {
  
   return (
     <>
-      <div>
+      <div className='  px-10'>
         <Section1/>
       </div> 
     </>

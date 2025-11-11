@@ -3,7 +3,7 @@ import React from 'react'
 const Nav = () => {
   return (
     <div>
-        <nav className=' flex justify-between py-6 px-6 items-center'>
+        <nav className=' flex justify-between py-6 items-center'>
             <div className='logo'>
                 <h3 className='text-2xl'>BloomFi</h3>
             </div>
